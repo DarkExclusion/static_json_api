@@ -1,0 +1,1 @@
+A Github Pages enabled repository for seeing how easily I can automate the process of hosting a static json api on this server.
